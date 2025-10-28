@@ -17,6 +17,9 @@ This project analyzes a $2.5 million Meta ad campaign to identify key performanc
 ---
 
 ## 3. Key Findings & Visualizations
+### Overall Campaign Performance
+<img width="483" height="606" alt="image" src="https://github.com/user-attachments/assets/306c1e13-8ef8-498d-8756-32ad142b759f" />
+
 
 #### Finding 1: Platform Performance (Volume vs. Efficiency)
 Facebook is the "volume" platform, driving 63% of all clicks. However, Instagram is the "efficiency" platform, with a higher Click-Through Rate (CTR) and Engagement Rate.
