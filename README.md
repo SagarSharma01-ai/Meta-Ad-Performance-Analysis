@@ -30,8 +30,10 @@ The campaigns resonate most strongly with **Females (43% of FB engagement)** and
 
 #### Finding 3: The Winning Ad Format
 **Carousel Ads** are the undisputed winners, achieving the highest **Conversion Rate (5.23%)** and proving most effective at turning viewers into customers.
-<img width="909" height="920" alt="image" src="https://github.com/user-attachments/assets/53dc60ff-8584-4d98-9767-562d1dc19de6" />
-<img width="436" height="172" alt="image" src="https://github.com/user-attachments/assets/b499693b-0fd5-402d-8b80-e8f2c3c7ce4f" />
+<img width="469" height="172" alt="image" src="https://github.com/user-attachments/assets/53768f7a-9d78-40e2-a4f0-e3204d4c72b7" />
+<img width="436" height="172" alt="image" src="https://github.com/user-attachments/assets/c93c4566-7b44-4b59-8942-b95f1b7e2df5" />
+<img width="426" height="277" alt="image" src="https://github.com/user-attachments/assets/99b08877-7790-4977-98d8-797146314264" />
+
 
 ---
 
